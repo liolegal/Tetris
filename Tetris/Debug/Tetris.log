@@ -1,0 +1,93 @@
+﻿  Tetris.cpp
+D:\Tetris\Button.h(29,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\Button.h(29,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\Button.h(31,31): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(31,24): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(32,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\Button.h(32,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\Button.h(40,52): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(40,43): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(49,52): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(49,43): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(52,43): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(52,31): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(53,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\Button.h(53,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\Button.h(58,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(58,25): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Tetris\Button.h(59,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\Button.h(59,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\Labell.h(23,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\Labell.h(23,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Tetris\GameLogic.h(58,24): warning C4305: =: усечение из "double" в "float"
+D:\Tetris\GameLogic.h(58,44): warning C4305: =: усечение из "double" в "float"
+D:\Tetris\GameLogic.h(60,24): warning C4305: =: усечение из "double" в "float"
+D:\Tetris\GameLogic.h(60,44): warning C4305: =: усечение из "double" в "float"
+D:\Tetris\GameLogic.h(61,24): warning C4305: =: усечение из "double" в "float"
+D:\Tetris\GameLogic.h(61,44): warning C4305: =: усечение из "double" в "float"
+D:\Tetris\Tetris.cpp(15,9): warning C4101: Y: неиспользованная локальная переменная
+D:\Tetris\Tetris.cpp(15,6): warning C4101: X: неиспользованная локальная переменная
+D:\Tetris\Tetris.cpp(100,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Tetris\Tetris.cpp(142,66): warning C4305: =: усечение из "double" в "float"
+D:\Tetris\Tetris.cpp(210,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Tetris\Tetris.cpp(210,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Tetris\Tetris.cpp(220,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Tetris\Tetris.cpp(220,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Tetris\GameLogic.h(46): warning C4715: GameOver: значение возвращается не при всех путях выполнения
+  Tetris.vcxproj -> D:\Tetris\Debug\Tetris.exe
